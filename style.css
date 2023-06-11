@@ -1,0 +1,39 @@
+body{
+    background-color: darkslategray;
+}
+header{
+    background-color:darkgrey;
+}
+.main-nav>a{
+    display:inline;
+}
+.main-nav{
+    float:right
+}
+img{
+    width: 900px;
+    height: 400px;
+    justify-content: center
+}
+header>*{
+    display:inline;
+}
+/* .kotak{
+    width:30% ;
+    background-color: black;
+    margin-left: 500px;
+} */
+.panduan{
+    background-color:black;
+    width: 300px;
+    color:white;
+    padding: 30px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+}
+.user{
+    background-color:black;
+    width: 300px;
+    color:white;
+    padding: 30px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+}
